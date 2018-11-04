@@ -1,0 +1,32 @@
+.DS_Store
+node_modules
+gitnote.txt
+
+# local env files
+.env.local
+.env.*.local
+
+# Log files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+.sass-cache
+*.mp4
+*.psd
+*.mov
+.sass-cache
+img/
+*.rar
+image
+*.zip
+*.pdf
+*.m4v
